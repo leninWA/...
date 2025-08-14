@@ -9,7 +9,7 @@
     "restart": "pm2 restart MARY"
   },
   "dependencies": {
-   "@whiskeysockets/baileys": "github:EdderBot02/bail",
+   "@whiskeysockets/baileys": ""github:leninWA/baileys"",
     "axios": "^1.7.9",
     "@adiwajshing/keyed-db": "latest",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
